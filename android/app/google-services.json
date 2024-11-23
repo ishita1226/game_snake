@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824831970659",
+    "project_id": "todo-8917c",
+    "storage_bucket": "todo-8917c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824831970659:android:0c7848a870b9845d7f5756",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1u4WdGeHriulzctDFg2BQ0DwYUN3951M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824831970659:android:3914fcc001a738847f5756",
+        "android_client_info": {
+          "package_name": "com.ishita.game_snake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1u4WdGeHriulzctDFg2BQ0DwYUN3951M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
